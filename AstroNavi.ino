@@ -1,3 +1,12 @@
+/*
+ * AstroNavi.ino
+ *
+ * Author : PaulMich
+ * GITHUB: https://github.com/PaulMich/AstroNavi
+ * LICENSE: MIT License, https://github.com/PaulMich/AstroNavi/blob/master/LICENSE
+ */ 
+
+
 #include "DHT.h"
 #define DHT11_PIN 2
 DHT dht;
